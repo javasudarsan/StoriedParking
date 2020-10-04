@@ -18,7 +18,7 @@ public class StoriedParking {
 
     { 
 
-        // Sort arrival and departure arrays 
+        // Sort arrival and departure arrays
 
         Arrays.sort(arr); 
 
